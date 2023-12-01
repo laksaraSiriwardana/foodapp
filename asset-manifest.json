@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laksaraSiriwardana/foodapp/static/css/main.c229e5f3.css",
+    "main.js": "/laksaraSiriwardana/foodapp/static/js/main.3c7a7515.js",
+    "index.html": "/laksaraSiriwardana/foodapp/index.html",
+    "main.c229e5f3.css.map": "/laksaraSiriwardana/foodapp/static/css/main.c229e5f3.css.map",
+    "main.3c7a7515.js.map": "/laksaraSiriwardana/foodapp/static/js/main.3c7a7515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c229e5f3.css",
+    "static/js/main.3c7a7515.js"
+  ]
+}
